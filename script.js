@@ -1,4 +1,3 @@
-
 let shopGoods = [
     {
         "store_name": "Moda Dünyası",

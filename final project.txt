@@ -9,6 +9,7 @@ Admin adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkan
 4.	Malın qiymətini dəyişmək imkanı təmin etmək lazımdır
 5.	İnternet maqazində olan istənilən maqazinə mal əlavə etmək imkanını təmin etmək lazımdır
 6.	Maqazində malları qiymətə görə sıralamaq imkanı olmalıdır. Misal üçün prompta yazılsa ki, “malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” o halda mallar verilən sıralamaya uyğun göstərilməlidir.
+
 Alıcı adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
 1.	Maqazindəki bütün malların siyahısını göstərmək imkanı olmalıdır. Siyahıda hər bir malın adı, təsviri, qiyməti və hansı maqazinə aid olduğu göstərilməlidir
 2.	Maqazindəki hər hansı bir malın adını yazdığımız zaman o malın həm adı, həm qiyməti, həm təsviri, həmdə ki, hansı maqazinin malı olduğu yazılmalıdır. Yəni ki, malın axtarış imkanını təmin etmək lazımdır
