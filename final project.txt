@@ -1,0 +1,30 @@
+Salam! Basic JavaScript lahiyəsini bu şəkildə etmək lazım olacaq. Sizə lahiyənin necə işləyəcəyini və sizdən nə lazım olduğunu təsvir edirəm.
+
+Lahiyə bir maqazin saytının işini tam olaraq göstərməlidir. Yəni ki, maqazinə həm Admin adından giriş olmalıdır həmdə ki, Alıcı adından. İnternet maqazində üç fərqli maqazinin malları təqdim olunacaq. 
+
+Admin adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
+1.	Maqazindəki bütün malların siyahısını göstərmək imkanı olmalıdır. Siyahıda hər bir malın adı, təsviri, qiyməti və hansı maqazinə aid olduğu göstərilməlidir
+2.	Maqazindəki hər hansı bir malın adını yazdığımız zaman o malın həm adı, həm qiyməti, həm təsviri, həmdə ki, hansı maqazinin malı olduğu yazılmalıdır. Yəni ki, malın axtarış imkanını təmin etmək lazımdır
+3.	Hər hansı bir malı maqazindən silmək imkanını təmin etmək lazımdır
+4.	Malın qiymətini dəyişmək imkanı təmin etmək lazımdır
+5.	İnternet maqazində olan istənilən maqazinə mal əlavə etmək imkanını təmin etmək lazımdır
+6.	Maqazində malları qiymətə görə sıralamaq imkanı olmalıdır. Misal üçün prompta yazılsa ki, “malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” o halda mallar verilən sıralamaya uyğun göstərilməlidir.
+Alıcı adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
+1.	Maqazindəki bütün malların siyahısını göstərmək imkanı olmalıdır. Siyahıda hər bir malın adı, təsviri, qiyməti və hansı maqazinə aid olduğu göstərilməlidir
+2.	Maqazindəki hər hansı bir malın adını yazdığımız zaman o malın həm adı, həm qiyməti, həm təsviri, həmdə ki, hansı maqazinin malı olduğu yazılmalıdır. Yəni ki, malın axtarış imkanını təmin etmək lazımdır
+3.	Maqazində malları qiymətə görə sıralamaq imkanı olmalıdır. Misal üçün prompta yazılsa ki, “malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” o halda mallar verilən sıralamaya uyğun göstərilməlidir.
+4.	Alıcının istədiyi malı öz səbətinə əlavə etmə imkanı olmalıdır. Onun üçün boş massiv yaradırsınız və istədiyiviz malı yazırsınız o massivə
+5.	Alıcının aldığı malları və aldığı malların toplam qiymətini görmək imkanı olmalıdır
+
+END DAXİL OLUNSA PROQRAM İŞİNİ BİTİRMƏLİDİR
+
+Proqram bu cur işləməlidir :
+
+“Sonsuz dövrdə” sizə daimə bir “prompt” 
+çıxacaq və sizdən müəyyən bir “dəyər” daxil etməyə çağıracaq. Daxil etdiyiniz dəyərlərə uyğun müəyyən əməliyyatlar baş verəcək
+
+
+
+Bu massivlə işləyəcəksiz:
+
+https://drive.google.com/file/d/1smPKFaQlMOhU6CBPJ6BktpTPD_FGyJzL/view?usp=sharing
