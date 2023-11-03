@@ -49,6 +49,8 @@ let shopGoods = [
     }
 ]
 
+
+
 let buyerbasket = []
 
 
