@@ -111,13 +111,17 @@ class DeleteProduct {
         this.index = 0
     }
     deleteProduct(massiv) {
+
+        let noFind 
         massiv.forEach((item) => {
             item.products.forEach((element) => {
                 if (element['product_name'] === this.mal) {
                     this.index = item.products.indexOf(element)
                     item.products.splice(this.index, 1)
                     alert('secdiyiniz product silindi')
-                } else {
+
+                    noFind = false
+                } else if (noFind) {
                     alert('silmek istediyiniz product tapilmadi')
                 }
             })
